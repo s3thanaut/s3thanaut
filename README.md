@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ## 🧠 About me
-An Ambitious Computer Science Student interested in learning new technologies. 👨‍🎓
+An Ambitious Computer Science Student interested in learning new technologies. 👨‍🎓<br>
 Interested in Web Development, Artificial Intelligence and Embedded System Development. 🤖
 
 ## 🛠 Languages and Skills
 [![My Skills](https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,mongodb,arch,arduino,blender,py,java,ps,ai,pr,ae,)](https://skillicons.dev)
+<br>
+(Still learning but I WILL get there...)
+
+## 🎸 Hobbies
+Music Composing 🎹<br>
+Orchestra playing 🎷<br>
+Photography 📷<br>
