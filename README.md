@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CF763&width=435&lines=Hello+there!)](https://git.io/typing-svg)
 
 <!--
 **s3thanaut/s3thanaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm Siyath Dharmarathne
+An Ambitious Computer Science Student interested in learning new technologies.
+
+Interested in Web Development, Artificial Intelligence and Embedded System Development.
+
+languages:
